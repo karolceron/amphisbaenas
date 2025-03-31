@@ -1,6 +1,6 @@
 # Amphisbaenas
 
-[![DOI](https://zenodo.org/badge/522530874.svg)](https://doi.org/10.5281/zenodo.7314017)
+[![DOI](https://zenodo.org/badge/957983886.svg)](https://doi.org/10.5281/zenodo.15114608)
 
 Data from the article “Climate, not soil, drives the distribution of two closely related worm lizards ” by Henrique Oliveira et al. 
 
